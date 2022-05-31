@@ -1,0 +1,37 @@
+header {
+    background-color: green;
+    width: 90%;
+    height: 150px;
+
+}
+nav{
+    background-color: blue;
+    width: 30%;
+    height: 100%;
+    float: right;
+}
+main {
+    background-color: yellow;
+    width: 70%;
+    height: 500px;
+    float: left;
+}
+section {
+    background-color: rgb(209, 136, 40);
+    width: 30%;
+    height: 100%;
+    float: left;
+    margin: 5px 2%;
+}
+aside {
+    background-color: rgb(209, 24, 226);
+    width: 20%;
+    height: 300px;
+    float: right;
+}
+footer{
+    background-color: red;
+    width: 90%;
+    height: 150px;
+    clear: both;
+}

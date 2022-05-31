@@ -1,0 +1,22 @@
+.box {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+
+}
+.box1 {
+    background-color: blue;
+    float: left;
+}
+.box2 {
+    background-color: yellow;
+    float: right;
+}
+.box3 {
+    background-color: green;
+}
+#container {
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+}

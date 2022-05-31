@@ -1,0 +1,47 @@
+.box {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+/*.box1 {
+    background-color: green;
+    position: fixed; fixa algo
+    top: 200px;
+    left: 300px;
+    z-index: 3;
+} */
+/*.box2 {
+    background-color: yellow;
+    position: relative;
+    top: 0;
+    left: 300px;
+}*/
+.box1 {
+    background-color: green;
+    
+   
+} 
+.box2 {
+    background-color: yellow;
+    position: absolute;
+    top: 0;
+    left: 300px;
+}
+.box3 {
+    background-color:  blue;
+    
+}
+#container{
+   width: 500px;
+   height: 400px;
+   border: 1px solid black;
+}
+
+/*#fix {
+    position: fixed;
+    top: 245px;
+    left: 340px;
+    z-index: 2; /*Profundidade, quanto maior, mais a frente ele estara
+    color: white;
+}*/
+
