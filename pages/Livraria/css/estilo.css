@@ -1,0 +1,21 @@
+/*Tudo*/
+#topo h1 {
+    color: red; 
+    text-align: center;
+     
+ }
+ #topo h2 {
+     text-align: center;
+ }
+ /*index*/
+ .destaques h2{
+  color: blue;
+ }
+ .destaques ul span {
+     font-weight: 900;
+ }
+ /*sobre*/
+ .sobre h3 {
+     color: red;
+ }
+
