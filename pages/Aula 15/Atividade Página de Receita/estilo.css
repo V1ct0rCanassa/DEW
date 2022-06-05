@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{ 
+    background-color: #EAEAEA;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-size: 28px;
+
+}
+h2 {
+    font-size: 20px;
+
+}
+li, p {
+ font-size: 16px;
+ font-weight: 400;
+}
+
+h1, h2 {
+    text-align: center;
+    font-weight: 700;
+}
+                                /*Header*/
+header, footer {
+    background-color: darkorange;
+    width: 100%;
+    height: 90px;
+    border-radius: 20px;
+}
+
+header nav ul{
+    background-color: rgb(255, 255, 255);
+    display: block;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+header nav ul li {  
+    display: inline-block;
+    margin-right: 10%; 
+    margin-left: 11%;
+    flex: auto;
+    border-radius: 0px;
+    line-height: 26px;
+}
+header a {
+    text-decoration: none;
+    
+}
+/*main*/
+main {
+    background-color: #FFFFFF;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+main section figure img {
+    width: 50%;
+    height: 350px;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    border: solid red 3px;
+}
+main section figcaption{
+   text-align: left;
+   margin-left: 27%;
+   font-size: 15px;
+   margin-bottom: 5px;
+}
+main section article{
+    background-color: rgb(211, 140, 54);
+    display: block;
+    width: 50%;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+main section article ul {
+   margin-left: 30px;
+}
+main section article ol {
+    margin-left: 30px;
+}
+
+/*Footer*/
+footer #rodape p {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+}
