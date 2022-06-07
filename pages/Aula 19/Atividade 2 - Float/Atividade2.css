@@ -1,0 +1,40 @@
+header{
+    background-color: rgb(89, 91, 95);
+    width: 75%;
+    height: 100px;
+    float: left;
+    clear: both;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+header p {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    color: white;
+}
+main section {
+    background-color: rgb(179, 181, 187);
+    width: 36.9%;
+    height: 600px;
+    float: left;
+    margin: 10px;
+}
+main section p {
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+}
+
+aside {
+    background-color: rgb(133, 134, 136);
+    width: 23%;
+    height: 710px;
+    float: right; 
+    margin: 5px; 
+}
+aside p {
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+}

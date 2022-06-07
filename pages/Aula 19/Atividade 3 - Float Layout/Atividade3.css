@@ -1,0 +1,51 @@
+#container {
+    width: 80%;
+    height: 1000px;
+    background-color: rgb(204, 199, 199);
+    margin-left: 10%;
+}
+header {
+    background-color: rgb(155, 163, 163);
+    width: 97%;
+    height: 100px;
+    margin-left: 17px;
+    margin-bottom: 5px;
+    
+}
+main nav section {
+    display: inline-block;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+main nav {
+    background-color: rgb(102, 105, 104);
+    width: 97%;
+    height: 30px;
+    margin-left: 17px;
+    margin-bottom: 20px;
+    float: left;
+}
+main #contents {
+    background-color: rgb(102, 102, 105);
+    width: 70%;
+    height: 700px;
+    float: left;
+    margin-left: 50px;
+}
+p {
+    text-align: center;
+}
+aside {
+    background-color: rgb(126, 123, 129);
+    width: 20%;
+    height: 670px;
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+footer {
+    background-color: rgb(71, 75, 75);
+    width: 100%;
+    height: 40px;
+    float: left;
+}   

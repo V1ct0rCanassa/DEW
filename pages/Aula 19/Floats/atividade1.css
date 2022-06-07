@@ -1,0 +1,56 @@
+/*Header*/
+header {
+    width: 75%;
+    height: 100px;
+    background-color: rgb(243, 147, 22);
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    float: left;
+}
+header h1 {
+    text-align: center;
+}
+/*Main*/
+main {
+    background-color: rgb(243, 147, 22);
+    border-radius: 3px;
+    float: left;
+    width: 60%;
+    height: 500px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+main p {
+    text-align: center;
+    margin-top: 20%;
+}
+/*Aside*/
+aside {
+    background-color: rgb(243, 147, 22);
+    float: left;
+    width: 14.5%;
+    height: 450px;
+    margin-right: 60px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+aside p {
+    text-align: center;
+    margin-top: 80%;
+}
+/*footer*/
+footer{
+    background-color: rgb(243, 147, 22);
+    clear: both;
+    margin-top: 10px;
+    width: 75%;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 200px;
+    float: left;
+}
+footer p {
+    text-align: center;
+    margin-top: px;
+}
