@@ -1,0 +1,30 @@
+#teste {
+    width: 90%;
+    height: 700px;
+    background-color: beige;
+    margin: 0 auto;
+}
+@media (max-width: 780px) {
+    #teste {
+        background-color: aquamarine;
+    }
+    h1 {font-size: 70px;}
+}
+@media (min-width: 481px) and (max-width: 680px) {
+    #teste {
+        background-color: darksalmon;
+    }
+    h1 {font-size: 20px}
+}
+@media (min-width: 681px) and (max-width: 980px) {
+    #teste {
+        background-color: rgb(131, 233, 122);
+    }
+    h1 {font-size: 60px}
+}
+@media (min-width: 980px) {
+    #teste {
+        background-color: rgb(233, 122, 191);
+    }
+    h1 {font-size: 80px}
+}
